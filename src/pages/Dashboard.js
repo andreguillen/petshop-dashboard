@@ -11,11 +11,12 @@ import CardsHeader from '../componentes/CardsHeader.js';
 import Cards from '../componentes/Cards.js';
 import Graphics from '../componentes/Graphics.js';
 
-var traerDatosUrl = 'http://localhost:3001/API/todosLosUsuarios';
 
-var traerProductosUrl = 'http://localhost:3001/API/todosLosProductos';
+var traerDatosUrl = 'https://ag-petshop.herokuapp.com/API/todosLosUsuarios';
 
-var traerCategoriasUrl = 'http://localhost:3001/API/todasLasCategorias';
+var traerProductosUrl = 'https://ag-petshop.herokuapp.com/API/todosLosProductos';
+
+var traerCategoriasUrl = 'https://ag-petshop.herokuapp.com/API/todasLasCategorias';
 
 
 
